@@ -4,7 +4,7 @@ This is a simple **React** application that allows users to browse and search pr
 
 ## 🌐 Demo Interface
 
-![React Product Catalog](./react.png)
+[![React Product Catalog](./react.png)](https://github.com/anouar-hamli/Store-Products-React/issues/1#issue-3168465624)
 
 ---
 
